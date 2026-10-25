@@ -106,7 +106,8 @@ export const siteConfig = {
       dateRange: "Expected Jun 2027",
       achievements: [
         "Minors in Business Administration and Psychology",
-        "GPA: 3.88",
+        "GPA: 3.88 | Dean's List, 5 quarters (Summer 2025 - Summer 2026)",
+        "Key coursework: Computer Forensics, Network Security, Access Control & Intrusion Techniques, IT Security Policies, IT Security Systems Audits",
         "Upsilon Pi Epsilon (UPE) and Rewriting the Code",
       ],
     },
